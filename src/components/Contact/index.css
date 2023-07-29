@@ -1,0 +1,23 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.titles {
+  font-family: roboto;
+  font-size: 24px;
+  font-weight: 300;
+  color: #090909;
+}
+
+.links {
+  margin: 50px;
+  font-weight: bold;
+}
+
+.co {
+  width: 100vw;
+  margin: 15px;
+}

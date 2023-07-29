@@ -1,0 +1,46 @@
+.main-container {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+}
+.signup-img {
+  width: 65vw;
+}
+.signup-container {
+  width: 35vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.button {
+  text-align: center;
+  margin: 30px;
+  width: 60%;
+  height: 80px;
+  background-color: #8db8ca;
+  border: none;
+  border-radius: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 7px;
+}
+.signin {
+  background-color: grey;
+}
+
+.para {
+  line-height: 0;
+  margin: 0px;
+  font-weight: bold;
+}

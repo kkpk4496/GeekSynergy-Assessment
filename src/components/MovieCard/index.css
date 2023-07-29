@@ -1,0 +1,27 @@
+.movie-item {
+  list-style-type: none;
+  margin: 25px;
+  display: flex;
+  width: 400px;
+  background-color: #c9c9c9;
+  border-radius: 12px;
+  justify-content: center;
+  align-items: center;
+}
+.cont {
+  max-width: 200px;
+  display: flex;
+  margin: 10px;
+}
+.thumbnail {
+  width: 100px;
+  height: 200px;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.title {
+  font-size: 20px;
+}
+.genre {
+  font-size: 14px;
+}
